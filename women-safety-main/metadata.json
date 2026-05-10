@@ -1,0 +1,8 @@
+{
+  "name": "Emergency Alert Assistant",
+  "description": "A web application to quickly notify emergency contacts with your location and a short audio/video recording. Press the HELP button to send an alert.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
